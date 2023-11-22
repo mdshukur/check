@@ -1,0 +1,84 @@
+Uri: https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/ComicMono-Bold.ttf
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\npm\comic-mono@0.0.1\ComicMono-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/ComicMono.ttf
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\npm\comic-mono@0.0.1\ComicMono.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\npm\comic-mono@0.0.1\index.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\ajax\libs\tailwindcss\2.2.19\tailwind.min.css
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/css/edit-undo-brk
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\css\edit-undo-brk
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/29055/editundo.woff
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\s\29055\editundo.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/29055/edundot.woff
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\s\29055\edundot.woff
+Content Type: font/woff
+
+Uri: https://fonts.cdnfonts.com/s/29055/edunline.woff
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\s\29055\edunline.woff
+Content Type: font/woff
+
+Uri: https://shids.ordinalgenesis.xyz/
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\index.htm
+Content Type: text/html
+
+Uri: https://shids.ordinalgenesis.xyz/205.png
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\205.png
+Content Type: image/png
+
+Uri: https://shids.ordinalgenesis.xyz/favicon.ico
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://shids.ordinalgenesis.xyz/script.js
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\script.js
+Content Type: application/javascript
+
+Uri: https://shids.ordinalgenesis.xyz/style.css
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\style.css
+Content Type: text/css
+
+Uri: https://shids.ordinalgenesis.xyz/twitter.png
+File Name: C:\Users\USER\Desktop\fcsoftware\assets\files\New folder\shids.ordinalgenesis.xyz\twitter.png
+Content Type: image/png
+
